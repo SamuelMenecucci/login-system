@@ -1,0 +1,28 @@
+.Register {
+  margin-bottom: 20px;
+}
+
+.Register,
+.Login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Register form,
+.Login form {
+  display: flex;
+  flex-direction: column;
+}
+
+.Register form input,
+.Login form input {
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.Register form button,
+.Login form button {
+  padding: 5px;
+}
