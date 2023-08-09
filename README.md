@@ -1,4 +1,4 @@
-# Sistema de login com ReactJS e NodeJS
+# Login system with ReactJS and NodeJS
 
-Sistema de login com ReactJS e NodeJS, com validação e cryptografia de senha no backend. 
-Persistência de dados utilizando postgress. Backend com controle de sessão de usuário. 
+Login system with ReactJS and NodeJS, with validation and password encryption in the backend.
+Data persistence using postgress. Backend with user session control.
